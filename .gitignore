@@ -1,0 +1,36 @@
+# Flutter generated files
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# IDE files
+**/.idea/
+**/*.iml
+**/.vscode/
+
+# Firebase / local debug
+**/firebase-debug.log
+
+# Environment / secrets
+**/.env
+**/.env.*
+!.env.example
+
+# Java / Spring Boot
+**/target/
+
+# Logs
+**/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Firebase Admin credentials
+**/SecurityKey.json
+
+# Android generated/local files
+**/.gradle/
+**/local.properties

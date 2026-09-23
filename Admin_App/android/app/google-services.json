@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "663430248806",
+    "project_id": "likhwao-15dcc",
+    "storage_bucket": "likhwao-15dcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663430248806:android:34e857ab70c0a3a364f0a7",
+        "android_client_info": {
+          "package_name": "com.example.adminlikhwao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkh_x3q-lEjibDHtJIvJzqYO0MQw1Shg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663430248806:android:dc7f5efc9c77284964f0a7",
+        "android_client_info": {
+          "package_name": "com.example.likho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkh_x3q-lEjibDHtJIvJzqYO0MQw1Shg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663430248806:android:73c53bc6df989ca264f0a7",
+        "android_client_info": {
+          "package_name": "com.example.likhwao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkh_x3q-lEjibDHtJIvJzqYO0MQw1Shg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
