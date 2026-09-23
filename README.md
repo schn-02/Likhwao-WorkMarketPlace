@@ -19,14 +19,5 @@ Flutter | Spring Boot | MySQL | Firebase (Auth, Firestore, Storage) | Razorpay |
 - Razorpay payments and Firebase file storage
 - Admin panel for users, writers and orders
 
-## Run Locally
-```bash
-# Backend
-cd Backend && ./mvnw spring-boot:run
-
-# Any Flutter app
-cd User_App && flutter pub get && flutter run
-```
-> Secrets (DB credentials, JWT secret, Razorpay keys, Firebase config files) are not included. Add your own to run the project.
 
 **Author:** Sachin ([@schn-02](https://github.com/schn-02))
